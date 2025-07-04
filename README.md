@@ -9,7 +9,7 @@ This is a web application that generates a personalized learning path based on y
 - Securely handles sensitive information like API keys using environment variables.
 
 # Streamlit App🔗
-Link: https://leap-learning-path-generator.streamlit.app/
+Link: https://advisor-genaiproject-madebyrachit.streamlit.app/
 
 # Prerequisites⚙️
 
